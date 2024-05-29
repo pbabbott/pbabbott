@@ -44,7 +44,7 @@ When I'm not at the keyboard, I enjoy connecting with family, playing video game
 <details>
 <summary>🛠️ Tech Stack</summary>
 <p>
-These are the technologies I know really well and have used professionally:
+These are the technologies I know really well and/or have used professionally:
 </p>
 
 | **Category** | **Technologies** |
@@ -64,12 +64,23 @@ These are the technologies I know really well and have used professionally:
 <details>
 <summary>📓 Actively Learning</summary>
 
-These are technologies that either I'm learning and practicing in my homelab or that I get a lot of exposure to at work.  I have not yet used these technologies professionally, but I am actively digging in to gain holistic understanding.
+These are technologies that either I'm learning and practicing in my homelab.  I have not yet used these technologies professionally, but I am actively digging in to gain holistic understanding.
+
+- [![Flux](https://img.shields.io/badge/Flux-326CE5?logo=kubernetes&logoColor=fff)](https://fluxcd.io/)  [![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?logo=kubernetes&logoColor=fff)](https://kustomize.io/) 
+- [![Ingress-NGINX](https://img.shields.io/badge/ingress--nginx-326CE5?logo=kubernetes&logoColor=fff)](https://kubernetes.github.io/ingress-nginx/user-guide/nginx-configuration/) [![Cert-Manager](https://img.shields.io/badge/cert--manager-326CE5?logo=kubernetes&logoColor=fff)](https://cert-manager.io/) [![external-dns](https://img.shields.io/badge/external--dns-326CE5?logo=kubernetes&logoColor=fff)](https://github.com/kubernetes-sigs/external-dns) [![nfs-subdir-external-provisioner](https://img.shields.io/badge/nfs--subdir--external--provisioner-326CE5?logo=kubernetes&logoColor=fff)](https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner) 
+
+</details>
+
+<details>
+<summary>🕵️ On my Radar</summary>
+
+These are technologies I will likely look into next.  These ones haven't quite made it into the "actively learning" but they're likely to do so soon!  I have had some experience with these, but not enough to say I'm highly proficient in the technology yet.
 
 - [![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=fff)](https://tailwindcss.com/)
 - [![Turborepo](https://img.shields.io/badge/Turbo_Repo-EF4444?logo=turborepo&logoColor=fff)](https://turbo.build/)
 - [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff)](https://prometheus.io/) [![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff)](https://grafana.com/) [![Loki](https://img.shields.io/badge/Loki-F46800?logo=grafana&logoColor=fff)](https://grafana.com/oss/loki/)
 - [![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)](https://www.cypress.io/)
-- [![MicroK8s](https://img.shields.io/badge/MicroK8s-EA5421?logo=kubernetes&logoColor=fff)](https://microk8s.io/) [![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?logo=argo&logoColor=fff)](https://argo-cd.readthedocs.io/en/stable/) [![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?logo=kubernetes&logoColor=fff)](https://kustomize.io/) [![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](https://www.terraform.io/) [![Skaffold](https://img.shields.io/badge/Skaffold-2AA2D6?style=flat&logo=skaffold&logoColor=ffffff)](https://skaffold.dev/) 
+- [![MicroK8s](https://img.shields.io/badge/MicroK8s-EA5421?logo=kubernetes&logoColor=fff)](https://microk8s.io/) [![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?logo=argo&logoColor=fff)](https://argo-cd.readthedocs.io/en/stable/) [![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](https://www.terraform.io/) [![Skaffold](https://img.shields.io/badge/Skaffold-2AA2D6?style=flat&logo=skaffold&logoColor=ffffff)](https://skaffold.dev/) 
 - [![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apacheairflow&logoColor=fff)](https://airflow.apache.org/)  [![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=fff)](https://spark.apache.org/) [![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff)](https://www.databricks.com/)
+
 </details>
